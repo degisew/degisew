@@ -7,7 +7,7 @@
 
 - 🤔 &nbsp; I'm software developer.
 - 🎓 &nbsp; Enrolling @microverse to be a full-stack web developer.
-- 💼 &nbsp; I have a great experince in web development and flutter development.
+- 💼 &nbsp; I have a great experience in web development and flutter development.
 - 👾 &nbsp; I have a remote work experince and can collaborate with anybody all over the world.
 - 🗣️ &nbsp; I am well-versed in communicating with the client in clear and concise English.
 <hr>
