@@ -1,13 +1,10 @@
-
-
-
 <img src="https://github.com/degisew/degisew/blob/main/Degisew-photo.png" width="100%">
 
-<h2 style="font-size:22px;color:red"> 👨🏻‍💻 &nbsp;<b><i>About Me </i></b></h2>
+<h2> 👨🏻‍💻 &nbsp;<b><i>About Me </i></b></h2>
 
 - 🤔 &nbsp; I'm software developer.
 - 🎓 &nbsp; Enrolling @microverse to be a full-stack web developer.
-- 💼 &nbsp; I have a great experience in web development and flutter development.
+- 💼 &nbsp; I have a great experience in Web and Mobile development.
 - 👾 &nbsp; I have a remote work experince and can collaborate with anybody all over the world.
 - 🗣️ &nbsp; I am well-versed in communicating with the client in clear and concise English.
 <hr>
