@@ -1,10 +1,9 @@
 
 
-<h1> Hello World! I'm <i><b>Dagi</b></i></h1>
 
-<img src
+<img src="https://github.com/degisew/degisew/blob/main/Degisew-photo.png" width="100%">
 
-<h2 style="font-size:22px;color:red"> 👨🏻‍💻 &nbsp;About Me </h2>
+<h2 style="font-size:22px;color:red"> 👨🏻‍💻 &nbsp;<b><i>About Me </i></b></h2>
 
 - 🤔 &nbsp; I'm software developer.
 - 🎓 &nbsp; Enrolling @microverse to be a full-stack web developer.
@@ -12,7 +11,7 @@
 - 👾 &nbsp; I have a remote work experince and can collaborate with anybody all over the world.
 - 🗣️ &nbsp; I am well-versed in communicating with the client in clear and concise English.
 <hr>
-<h3> 🛠 &nbsp;My Major Tech Stacks</h3>
+<h2> 🛠 &nbsp; <i>Major Tech Stacks and Tools</i></h2>
 
 - 💻 &nbsp;
   ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=Dart&logoColor=00599C)
@@ -41,10 +40,10 @@
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=degisew&theme=buefy&layout=compact" />
 </a>
 <hr>
-<h3> 🤝🏻 &nbsp; Lets get in touch </h3>
+<h2> 🤝🏻 &nbsp; <i>Let's Connect </i></h2>
 
 <p>
-<br> <a href="https://www.linkedin.com/feed/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-degisew%20mengist-blue?style=flat-square&logo=linkedin&color=success"></a> <br><a href="mailto:jegisew21@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-jegisew21@gmail.com-blue?style=flat-square&logo=gmail&color=success"></a><br><a href="https://api.whatsapp.com/send?phone=+251953059021"><img alt="whatsapp" src="https://img.shields.io/badge/WhatsApp-+251953059021-blue?style=flat-square&logo=whatsapp&color=success"></a><br><a href="https://www.twitter.com/feed/"><img alt="twitter" src="https://img.shields.io/badge/twitter-@DJ_etiya-blue?style=flat-square&logo=twitter&color=success"></a>
+ <a href="https://www.linkedin.com/feed/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-degisew%20mengist-blue?style=flat-square&logo=linkedin&color=success"></a> &nbsp;&nbsp;<a href="mailto:jegisew21@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-jegisew21@gmail.com-blue?style=flat-square&logo=gmail&color=success"></a>&nbsp;&nbsp;<a href="https://api.whatsapp.com/send?phone=+251953059021"><img alt="whatsapp" src="https://img.shields.io/badge/WhatsApp-+251953059021-blue?style=flat-square&logo=whatsapp&color=success"></a>&nbsp;&nbsp;<a href="https://www.twitter.com/feed/"><img alt="twitter" src="https://img.shields.io/badge/twitter-@DJ_etiya-blue?style=flat-square&logo=twitter&color=success"></a>
 
 </p>
 <hr>
