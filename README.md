@@ -1,12 +1,23 @@
 <img src="https://github.com/degisew/degisew/blob/main/Degisew-photo.png" width="100%">
 
-<h2> 👨🏻‍💻 &nbsp;<b><i>About Me </i></b></h2>
+<h2> 👨🏻‍💻 &nbsp;<b><i>A little bit about Me </i></b></h2>
 
-- 🤔 &nbsp; I'm software developer.
+```javascript
+const degisew = {
+  lookingFor:  "Front-end developer" || "Mobile app developer"
+  techStacks: [React, Javascript, Redux, HTML/CSS, Semantic UI, Bootstrap, CSS, Dart, Flutter],
+  hobbies: [Martial arts, Foot ball , Cooking],
+  challenge: "I am honing my Reactjs skills and picking up Ruby on Rails",
+  funFacts: ['I have 1+ years of Mobile App development experience with Flutter','Front-end web development', '1/2 year experience in remote collaboration with all devs from all over the world']
+}
+
+```
+
+<!-- - 🤔 &nbsp; I'm software developer.
 - 🎓 &nbsp; Enrolling @microverse to be a full-stack web developer.
 - 💼 &nbsp; I have a great experience in Web and Mobile development.
 - 👾 &nbsp; I have a remote work experince and can collaborate with anybody all over the world.
-- 🗣️ &nbsp; I am well-versed in communicating with the client in clear and concise English.
+- 🗣️ &nbsp; I am well-versed in communicating with the client in clear and concise English. -->
 <hr>
 <h2> 🛠 &nbsp; <i>Major Tech Stacks and Tools</i></h2>
 
