@@ -4,11 +4,13 @@
 
 ```javascript
 const degisew = {
-  lookingFor:  "Front-end developer" || "Mobile app developer"
+  lookingFor:  "Front-end developer" || "Mobile app developer",
   techStacks: [React, Javascript, Redux, HTML/CSS, Semantic UI, Bootstrap, CSS, Dart, Flutter],
   hobbies: [Martial arts, Foot ball , Cooking],
   challenge: "I am honing my Reactjs skills and picking up Ruby on Rails",
-  funFacts: ['I have 1+ years of Mobile App development experience with Flutter','Front-end web development', '1/2 year experience in remote collaboration with all devs from all over the world']
+  funFacts: ['I have 1+ years of Mobile App development experience with Flutter','1 year experience of Front-end web development', 
+  '1/2 year experience in remote collaboration with all devs from all over the world'
+  ]
 }
 
 ```
