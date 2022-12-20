@@ -44,7 +44,7 @@ const degisew = {
  
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio)
+  
 <hr>
 <a href="https://github.com/degisew">
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=degisew&theme=buefy&show_icons=true" />
