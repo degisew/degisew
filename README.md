@@ -4,8 +4,8 @@
 
 ```javascript
 const degisew = {
-  lookingFor:  "Front-end developer" || "Mobile app developer",
-  techStacks: [React, Javascript, Redux, HTML/CSS, Ruby, Semantic UI, Bootstrap, Dart, Flutter],
+  lookingFor:  "Front-end developer" || "Back-end developer",
+  techStacks: [React, Javascript, Redux, HTML/CSS, Ruby, Ruby on Rails, Semantic UI, Bootstrap, Dart, Flutter],
   hobbies: [MartialArts, FootBall , Cooking],
   challenge: "I am honing my Reactjs skills and picking up Ruby on Rails",
   funFacts: ['I have 1+ years of Mobile App development experience with Flutter','3 years experience of Front-end web development'
@@ -32,6 +32,8 @@ const degisew = {
   ![SCSS](https://img.shields.io/badge/-SCSS-333333?style=flat&logo=SASS&logoColor=#b14376)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![ReactJS](https://img.shields.io/badge/-ReactJS-333333?style=flat&logo=react)
+  ![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby)
+  ![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-333333?style=flat&logo=Ruby%20on%20Rails)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   
 - 🛢 &nbsp;
