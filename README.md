@@ -21,29 +21,30 @@ const degisew = {
 - 🗣️ &nbsp; I am well-versed in communicating with the client in clear and concise English. -->
 <hr>
 <h2> 🛠 &nbsp; <i>Major Tech Stacks and Tools</i></h2>
-
-- 💻 &nbsp;
-  ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=Dart&logoColor=00599C)
-  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter&logoColor=276DC3)
-  
+ 
 - 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![SCSS](https://img.shields.io/badge/-SCSS-333333?style=flat&logo=SASS&logoColor=#b14376)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![ReactJS](https://img.shields.io/badge/-ReactJS-333333?style=flat&logo=react)
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=for-the-badge&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=for-the-badge&logo=CSS3&logoColor=1572B6)
+  ![SCSS](https://img.shields.io/badge/-SCSS-333333?style=for-the-badge&logo=SASS&logoColor=#b14376)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript)
+  ![ReactJS](https://img.shields.io/badge/-ReactJS-333333?style=for-the-badge&logo=react)
   ![Ruby](https://img.shields.io/badge/-Ruby-333333?style=for-the-badge&logo=ruby&logoColor=red)
   ![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-333333?style=for-the-badge&logo=Ruby%20on%20Rails&logoColor=red)
   
+  - 💻 &nbsp;
+  ![Dart](https://img.shields.io/badge/-Dart-333333?style=for-the-badge&logo=Dart&logoColor=00599C)
+  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=for-the-badge&logo=Flutter&logoColor=276DC3)
+  
 - 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=for-the-badge&logo=mysql)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=for-the-badge&logo=postgresql)
+  
 - ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github)
  
 - 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
   
 <hr>
 <a href="https://github.com/degisew">
