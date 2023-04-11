@@ -4,18 +4,17 @@
 
 ```javascript
 const degisew = {
-  lookingFor:  "Front-end developer" || "Back-end developer",
-  techStacks: [React, Javascript, Redux, HTML/CSS, Ruby, Ruby on Rails, Semantic UI, Bootstrap, Dart, Flutter],
+  lookingFor:  "Full-stack developer" || "Front-end developer" || "Back-end developer",
+  techStacks: [React, JavaScript, Redux, HTML5/CSS3, Ruby, Bootstrap, Dart, Flutter],
   hobbies: [MartialArts, FootBall , Cooking],
   challenge: "I am honing my Reactjs skills and picking up Ruby on Rails",
-  funFacts: ['I have 1+ years of Mobile App development experience with Flutter','3 years experience of Front-end web development'
-  ]
+  funFacts: ['3+ years of experience in Front-end web development', '1+ years of Mobile App development experience with Flutter']
 }
 
 ```
 
 <!-- - 🤔 &nbsp; I'm software developer.
-- 🎓 &nbsp; Enrolling @microverse to be a full-stack web developer.
+- 🎓 &nbsp; Spent 1300+ hours and completed a full-stack web development boot camp at Microvese.
 - 💼 &nbsp; I have a great experience in Web and Mobile development.
 - 👾 &nbsp; I have a remote work experince and can collaborate with anybody all over the world.
 - 🗣️ &nbsp; I am well-versed in communicating with the client in clear and concise English. -->
