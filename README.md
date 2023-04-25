@@ -27,6 +27,8 @@ const degisew = {
   ![SCSS](https://img.shields.io/badge/-SCSS-333333?style=for-the-badge&logo=SASS&logoColor=#b14376)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript)
   ![ReactJS](https://img.shields.io/badge/-ReactJS-333333?style=for-the-badge&logo=react)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=Python)
+  ![Django](https://img.shields.io/badge/-django-333333?style=for-the-badge&logo=django)
   ![Ruby](https://img.shields.io/badge/-Ruby-333333?style=for-the-badge&logo=ruby&logoColor=red)
   ![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-333333?style=for-the-badge&logo=Ruby%20on%20Rails&logoColor=red)
   
@@ -44,6 +46,8 @@ const degisew = {
  
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+  ![Pycharm](https://img.shields.io/badge/-pycharm-333333?style=for-the-badge&logo=pycharm&logoColor=007ACC)
+  ![RubyMine](https://img.shields.io/badge/-ruby%20mine-333333?style=for-the-badge&logo=ruby%20mine&logoColor=007ACC)
   
 <hr>
 <a href="https://github.com/degisew">
