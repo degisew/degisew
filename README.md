@@ -8,7 +8,7 @@ const degisew = {
   techStacks: [React, JavaScript, Redux, HTML5, CSS3, Ruby, Ruby on Rails, Python, Django, Bootstrap, Dart, Flutter],
   hobbies: [MartialArts, FootBall , Cooking],
   challenge: "I am honing my Reactjs skills and picking up Ruby on Rails",
-  funFacts: ['3+ years of experience in Front-end web development', '1+ years of Mobile App development experience with Flutter']
+  funFacts: ['3+ years of experience in the industry', '1 year remote pair-programming and collaboration experience']
 }
 
 ```
