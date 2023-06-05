@@ -28,10 +28,8 @@ const degisew = {
   ![ReactJS](https://img.shields.io/badge/-ReactJS-333333?style=for-the-badge&logo=react)
   ![Python](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=Python)
   ![Django](https://img.shields.io/badge/-django-333333?style=for-the-badge&logo=django)
-  ![Ruby](https://img.shields.io/badge/-Ruby-333333?style=for-the-badge&logo=ruby&logoColor=red)
-  ![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-333333?style=for-the-badge&logo=Ruby%20on%20Rails&logoColor=red)
-
-- 🛢 &nbsp;
+  
+  - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=for-the-badge&logo=mysql)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=for-the-badge&logo=postgresql)
   
