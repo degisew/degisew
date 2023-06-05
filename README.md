@@ -29,7 +29,7 @@ const degisew = {
   ![Python](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=Python)
   ![Django](https://img.shields.io/badge/-django-333333?style=for-the-badge&logo=django)
   
-  - 🛢 &nbsp;
+- 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=for-the-badge&logo=mysql)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=for-the-badge&logo=postgresql)
   
