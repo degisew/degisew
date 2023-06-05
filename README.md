@@ -5,7 +5,7 @@
 ```javascript
 const degisew = {
   lookingFor:  "Full-stack developer" || "Front-end developer" || "Back-end developer",
-  techStacks: [React, JavaScript, Redux, HTML5, CSS3, Python, Django, Bootstrap]
+  techStacks: [React, JavaScript, Redux, HTML5, CSS3, Python, Django, Bootstrap],
   hobbies: [MartialArts, FootBall , Cooking],
   funFacts: ['3+ years of experience in the industry', '1 year remote pair-programming and collaboration experience']
 }
