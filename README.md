@@ -21,7 +21,7 @@ const degisew = {
 <h2> 🛠 &nbsp; <i>Major Tech Stacks and Tools</i></h2>
  
 - 🌐 &nbsp;
-- ![Python](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=Python)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=Python)
   ![Django](https://img.shields.io/badge/-django-333333?style=for-the-badge&logo=django)
   ![ReactJS](https://img.shields.io/badge/-ReactJS-333333?style=for-the-badge&logo=react)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript)
