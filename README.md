@@ -4,10 +4,10 @@
 
 ```javascript
 const degisew = {
-  lookingFor:  "Full-stack developer" || "Front-end developer" || "Back-end developer",
-  techStacks: [React, JavaScript, Redux, HTML5, CSS3, Python, Django, Bootstrap],
+  lookingFor:  "Back-end developer" || "Full-stack developer" || "Front-end developer"
+  techStacks: [Python, Django, JavaScript, React, Redux, HTML5, CSS3, Bootstrap],
   hobbies: [MartialArts, Soccer, Cooking],
-  funFacts: ['3+ years of experience in the industry, '1-year remote pair-programming and collaboration experience']
+  funFacts: ['Expert in making and drinking coffee, 'Eager to learn new things', 3+ years of coding experience, '1-year remote pair-programming and collaboration experience']
 }
 
 ```
