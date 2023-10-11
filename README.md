@@ -7,7 +7,7 @@ const degisew = {
   lookingFor:  "Back-end developer" || "Full-stack developer" || "Front-end developer"
   techStacks: [Python, Django, JavaScript, React, Redux, HTML5, CSS3, Bootstrap],
   hobbies: [MartialArts, Soccer, Cooking],
-  funFacts: ['Expert in making and drinking coffee, 'Eager to learn new things', 3+ years of coding experience, '1-year remote pair-programming and collaboration experience']
+  funFacts: ['Expert at making and drinking coffee, 'Eager to learn new things', 3+ years of coding experience, '1-year remote pair-programming and collaboration experience']
 }
 
 ```
