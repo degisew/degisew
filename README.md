@@ -2,12 +2,12 @@
 
 <h2> 👨🏻‍💻 &nbsp;<b><i>A little bit about Me </i></b></h2>
 
-```javascript
-const degisew = {
-  lookingFor:  "Back-end developer" || "Full-stack developer" || "Front-end developer"
-  techStacks: [Python, Django, JavaScript, React, Redux, HTML5, CSS3, Bootstrap],
-  hobbies: [MartialArts, Soccer, Cooking],
-  funFacts: ['Expert at making and drinking coffee, 'Eager to learn new things', 3+ years of coding experience, '1-year remote pair-programming and collaboration experience']
+```python
+ degisew = {
+  'looking_for':  'Back-end Engineer position'
+  'tech_stacks': ['Python', 'Django', 'JavaScript', 'Nodejs', 'React', 'HTML5', 'CSS3', 'Bootstrap'],
+  'hobbies': ['Reading', 'Mentorship'],
+  'fun_facts': ['passionate about AI, 'Remote work aficionado', 'Eager to learn new things', '3 years of coding experience']
 }
 
 ```
@@ -32,15 +32,16 @@ const degisew = {
 - 🛢 &nbsp;
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=for-the-badge&logo=postgresql)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=for-the-badge&logo=mysql)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=for-the-badge&logo=mongodb)
+  ![Neo4j](https://img.shields.io/badge/-Neo4j-333333?style=for-the-badge&logo=neo4j)
   
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github)
- 
+ ![GitLab](https://img.shields.io/badge/-GitLab-333333?style=for-the-badge&logo=gitlab)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
   ![Pycharm](https://img.shields.io/badge/-pycharm-333333?style=for-the-badge&logo=pycharm&logoColor=007ACC)
-  ![RubyMine](https://img.shields.io/badge/-ruby%20mine-333333?style=for-the-badge&logo=ruby%20mine&logoColor=007ACC)
   
 <hr>
 <a href="https://github.com/degisew">
@@ -51,7 +52,7 @@ const degisew = {
 <h2> 🤝🏻 &nbsp; <i>Let's Connect </i></h2>
 
 <p>
- <a href="https://www.linkedin.com/feed/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-degisew%20mengist-blue?style=flat-square&logo=linkedin&color=success"></a> &nbsp;&nbsp;<a href="mailto:degisew.mengist21@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-degisew.mengist21@gmail.com-blue?style=flat-square&logo=gmail&color=success"></a>&nbsp;&nbsp;<a href="https://api.whatsapp.com/send?phone=+251953059021"><img alt="whatsapp" src="https://img.shields.io/badge/WhatsApp-+251953059021-blue?style=flat-square&logo=whatsapp&color=success"></a>&nbsp;&nbsp;<a href="https://www.twitter.com/feed/"><img alt="twitter" src="https://img.shields.io/badge/twitter-@DJ_etiya-blue?style=flat-square&logo=twitter&color=success"></a>
+ <a href="https://www.linkedin.com/in/degisew-mengist/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-degisew%20mengist-blue?style=flat-square&logo=linkedin&color=success"></a> &nbsp;&nbsp;<a href="mailto:degisew.mengist21@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-degisew.mengist21@gmail.com-blue?style=flat-square&logo=gmail&color=success"></a>&nbsp;&nbsp;<a href="https://api.whatsapp.com/send?phone=+251953059021"><img alt="whatsapp" src="https://img.shields.io/badge/WhatsApp-+251953059021-blue?style=flat-square&logo=whatsapp&color=success"></a>&nbsp;&nbsp;<a href="https://www.twitter.com/feed/"><img alt="twitter" src="https://img.shields.io/badge/twitter-@DJ_etiya-blue?style=flat-square&logo=twitter&color=success"></a>
 
 </p>
 <hr>
