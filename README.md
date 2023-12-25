@@ -1,4 +1,4 @@
-<img src="https://github.com/degisew/degisew/blob/main/Degisew-photo.png" width="100%">
+<img src="https://github.com/degisew/degisew/blob/main/cover_photo.png" width="100%" height="300px">
 
 <h2> 👨🏻‍💻 &nbsp;<b><i>A little bit about Me </i></b></h2>
 
