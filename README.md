@@ -4,7 +4,7 @@
 
 ```python
  degisew = {
-  'looking_for':  'Back-end Engineer position'
+  'looking_for':  'Python Developer position' | 'Back-end Engineer position'
   'tech_stacks': ['Python', 'Django', 'JavaScript', 'Nodejs', 'React', 'HTML5', 'CSS3', 'Bootstrap'],
   'hobbies': ['Reading', 'Mentorship'],
   'fun_facts': ['passionate about AI, 'Remote work aficionado', 'Eager to learn new things', '3 years of coding experience']
