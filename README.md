@@ -1,4 +1,4 @@
-<img src="https://github.com/degisew/degisew/blob/main/linkedin-cover.jpeg" width="100%" height="250px">
+<img src="https://github.com/degisew/degisew/blob/main/cover-photo.jpeg" width="100%" height="250px">
 
 <h2> 👨🏻‍💻 &nbsp;<b><i>A little bit about Me </i></b></h2>
 
