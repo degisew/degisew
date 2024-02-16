@@ -45,8 +45,9 @@
   
 <hr>
 <a href="https://github.com/degisew">
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=degisew&year=2024&theme=buefy&show_icons=true" />
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=degisew&year=2024&theme=buefy&layout=compact" />
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=degisew&year=2024&theme=dracula&show_icons=true" />
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=degisew&year=2024&theme=dracula&layout=compact" />
+ [![Degisew's GitHub stats](https://github-readme-stats.vercel.app/api?username=degisew)](https://github.com/degisew/github-readme-stats)
 </a>
 <hr>
 <h2> 🤝🏻 &nbsp; <i>Let's Connect </i></h2>
