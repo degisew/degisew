@@ -42,13 +42,11 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
   ![Pycharm](https://img.shields.io/badge/-pycharm-333333?style=for-the-badge&logo=pycharm&logoColor=007ACC)
-  
-![Degisew's GitHub stats](https://github-readme-stats.vercel.app/api?username=degisew)
- ![](https://github.com/degisew/github-readme-stats)
+
 <hr>
 <a href="https://github.com/degisew">
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=degisew&year=2024&theme=dracula&show_icons=true" />
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=degisew&year=2024&theme=dracula&layout=compact" />
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=degisew&show_icons=true&theme=transparent&show_icons=true" />
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=degisew&show_icons=true&theme=transparent&layout=compact" />
 </a>
 <hr>
 <h2> 🤝🏻 &nbsp; <i>Let's Connect </i></h2>
