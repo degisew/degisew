@@ -44,7 +44,10 @@
   ![Pycharm](https://img.shields.io/badge/-pycharm-333333?style=for-the-badge&logo=pycharm&logoColor=007ACC)
   
 <hr>
-
+<a href="https://github.com/degisew">
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=degisew&theme=buefy&show_icons=true" />
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=degisew&theme=buefy&layout=compact" />
+</a>
 <hr>
 <h2> 🤝🏻 &nbsp; <i>Let's Connect </i></h2>
 
