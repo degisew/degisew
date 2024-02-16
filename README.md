@@ -43,6 +43,8 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
   ![Pycharm](https://img.shields.io/badge/-pycharm-333333?style=for-the-badge&logo=pycharm&logoColor=007ACC)
   
+![Degisew's GitHub stats](https://github-readme-stats.vercel.app/api?username=degisew)
+ ![](https://github.com/degisew/github-readme-stats)
 <hr>
 <a href="https://github.com/degisew">
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=degisew&year=2024&theme=dracula&show_icons=true" />
@@ -50,7 +52,6 @@
 </a>
 <hr>
 <h2> 🤝🏻 &nbsp; <i>Let's Connect </i></h2>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <p>
  <a href="https://www.linkedin.com/in/degisew-mengist/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-degisew%20mengist-blue?style=flat-square&logo=linkedin&color=success"></a> &nbsp;&nbsp;<a href="mailto:degisew.mengist21@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-degisew.mengist21@gmail.com-blue?style=flat-square&logo=gmail&color=success"></a>&nbsp;&nbsp;<a href="https://api.whatsapp.com/send?phone=+251953059021"><img alt="whatsapp" src="https://img.shields.io/badge/WhatsApp-+251953059021-blue?style=flat-square&logo=whatsapp&color=success"></a>&nbsp;&nbsp;<a href="https://www.twitter.com/@DJ_etiya/"><img alt="X" src="https://img.shields.io/badge/x-@DJ_etiya-blue?style=flat-square&logo=x&color=success"></a>
 
