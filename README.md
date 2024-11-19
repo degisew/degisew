@@ -51,7 +51,7 @@
 <hr>
 <h2> 🤝🏻 &nbsp; <i>Let's Connect </i></h2>
 <p>
- <a href="https://www.linkedin.com/in/degisew-mengist/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-degisew%20mengist-blue?style=flat-square&logo=linkedin&color=success"></a> &nbsp;&nbsp;<a href="mailto:degisew.mengist21@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-degisew.mengist21@gmail.com-blue?style=flat-square&logo=gmail&color=success"></a>&nbsp;&nbsp;<a href="https://api.whatsapp.com/send?phone=+251953059021"><img alt="whatsapp" src="https://img.shields.io/badge/WhatsApp-+251953059021-blue?style=flat-square&logo=whatsapp&color=success"></a>&nbsp;&nbsp;<a href="https://www.twitter.com/@DJ_etiya/"><img alt="X" src="https://img.shields.io/badge/x-@DJ_etiya-blue?style=flat-square&logo=x&color=success"></a>
+ <a href="https://www.linkedin.com/in/degisew-mengist/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-degisew%20mengist-blue?style=flat-square&logo=linkedin&color=success"></a> &nbsp;&nbsp;<a href="mailto:degisew.mengist21@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-degisew.mengist21@gmail.com-blue?style=flat-square&logo=gmail&color=success"></a>&nbsp;&nbsp;<a href="https://api.whatsapp.com/send?phone=+251953059021"><img alt="whatsapp" src="https://img.shields.io/badge/WhatsApp-+251953059021-blue?style=flat-square&logo=whatsapp&color=success"></a>&nbsp;&nbsp;<a href="https://x.com/@py_dagi/"><img alt="X" src="https://img.shields.io/badge/x-@py_dagi-blue?style=flat-square&logo=x&color=success"></a>
 
 </p>
 <hr>
