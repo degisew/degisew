@@ -4,10 +4,10 @@
 
 ```python
  degisew = {
-  'looking_for':  'Python Developer position' | 'Django Developer position' | 'Back-end Developer position'
-  'tech_stacks': ['Python', 'Django', 'JavaScript', 'HTML5', 'CSS3', 'Bootstrap'],
+  'looking_for':  ['Python Developer position', 'Backend Developer position'],
+  'tech_stacks': ['Python', 'Rust', 'Django', 'FastAPI'],
   'hobbies': ['Reading', 'Mentorship'],
-  'fun_facts': ['passionate about AI, 'Remote work aficionado', 'Eager to learn new things', '3 years of experience']
+  'fun_facts': ['passionate about system Programming', 'Eager to learn new things']
 }
 
 ```
@@ -21,13 +21,13 @@
 <h2> 🛠 &nbsp; <i>Major Tech Stacks and Tools</i></h2>
  
 - 🌐 &nbsp;
+  ![Rust](https://img.shields.io/badge/-Rust-333333?style=for-the-badge&logo=Rust)
   ![Python](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=Python)
+  ![FastAPI](https://img.shields.io/badge/-fastapi-333333?style=for-the-badge&logo=fastapi)
   ![Django](https://img.shields.io/badge/-django-333333?style=for-the-badge&logo=django)
-  ![ReactJS](https://img.shields.io/badge/-ReactJS-333333?style=for-the-badge&logo=react)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=for-the-badge&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=for-the-badge&logo=CSS3&logoColor=1572B6)
-  ![SCSS](https://img.shields.io/badge/-SCSS-333333?style=for-the-badge&logo=SASS&logoColor=#b14376)
   
 - 🛢 &nbsp;
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=for-the-badge&logo=postgresql)
@@ -39,9 +39,7 @@
   ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github)
  ![GitLab](https://img.shields.io/badge/-GitLab-333333?style=for-the-badge&logo=gitlab)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
-  ![Pycharm](https://img.shields.io/badge/-pycharm-333333?style=for-the-badge&logo=pycharm&logoColor=007ACC)
+
 
 <hr>
 <a href="https://github.com/degisew">
